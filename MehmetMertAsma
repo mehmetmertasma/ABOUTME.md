@@ -1,3 +1,18 @@
 Mehmet Mert Asma
 Im 23 years old, Im volleyball colloge athlete at Oakland City University.
 I interest coding because the life plan i did for my future planned on coding and stuff i should be knowing for make the next step on my life.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>About Mert</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>...</nav>
+    <h1>Mert Asma</h1>
+    <img src="profile.jpg" alt="A picture related to me">
+    <p>Hi! I’m Mert Asma, a university student passionate about web development and technology.</p>
+    <p>Outside of coding, I love playing volleyball. As one of the leaders of my team, I enjoy strategizing and working together to achieve success on and off the court.</p>
+</body>
+</html>
