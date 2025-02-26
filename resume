@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Mert's Resume</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>...</nav>
+    <h1>My Resume</h1>
+    <p><strong>Name:</strong> Mert Asma</p>
+    <p><strong>Email:</strong> mertasma7580@gmail.com</p>
+    
+    <h2>Education</h2>
+    <p>Bachelor's in Business Law, University of XYZ (Expected 2026)</p>
+    
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML, CSS, JavaScript</li>
+        <li>GitHub, Version Control</li>
+        <li>Responsive Web Design</li>
+    </ul>
+    
+    <h2>Work Experience</h2>
+    <p><strong>Resident Assistant (RA), Old School</strong><br>  
+    - Provided guidance and support for students, developing leadership skills.</p>
+    <p><strong>Web Development Intern (Future Role)</strong><br>  
+    - Seeking opportunities in front-end development to enhance my skills.</p>
+</body>
+</html>
